@@ -6,6 +6,6 @@ My repository!
 
 Hello.
 
-## Local Develpment
+## Local Development
 
 1.Open index.html in your browser
